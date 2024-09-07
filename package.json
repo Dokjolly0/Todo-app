@@ -1,0 +1,19 @@
+{
+  "name": "prova-finale",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "install-all": "npm install && concurrently \"npm --prefix frontend install\" \"npm --prefix backend install\"",
+    "start": "concurrently \"npm run start-frontend\" \"npm run start-backend\"",
+    "start-frontend": "cd \"Frontend\" && npm start",
+    "start-backend": "cd \"Backend\" && npm start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
