@@ -8,6 +8,7 @@
 #### Install Dependencies
 To install all the necessary dependencies in all the project directories, run the following command:
 ```bash
+npm install
 npm run install-all
 ```
 
