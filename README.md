@@ -1,7 +1,7 @@
 # Todo App
 
 ## Description (English)
-**Todo App** is an application for managing daily tasks. It allows users to add, edit, delete, and mark tasks as completed. Built with a modern architecture, it uses React for the frontend and Node.js for the backend.
+**Todo App** is an application for managing daily tasks. It allows users to add, edit, delete, and mark tasks as completed. Built with a modern architecture, it uses Angular for the frontend and Node.js for the backend.
 
 ### Main Commands
 
@@ -22,7 +22,7 @@ npm start
 # Todo App
 
 ## Descrizione (italiano)
-**Todo App** è un'applicazione per la gestione delle attività quotidiane. Consente agli utenti di aggiungere, modificare, eliminare e contrassegnare le attività come completate. È costruita utilizzando un'architettura moderna con React per il frontend e Node.js per il backend.
+**Todo App** è un'applicazione per la gestione delle attività quotidiane. Consente agli utenti di aggiungere, modificare, eliminare e contrassegnare le attività come completate. È costruita utilizzando un'architettura moderna con Angular per il frontend e Node.js per il backend.
 
 ## Comandi principali
 
