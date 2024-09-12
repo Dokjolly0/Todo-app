@@ -30,6 +30,7 @@ npm start
 ### Installazione delle dipendenze
 Per installare tutte le dipendenze necessarie in tutte le cartelle del progetto, esegui il comando:
 ```bash
+npm install
 npm run install-all
 ```
 
