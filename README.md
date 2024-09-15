@@ -5,6 +5,11 @@
 
 ### Main Commands
 
+### Clone project:
+```bash
+git clone --recurse-submodules https://github.com/Dokjolly0/Todo-app.git
+```
+
 #### Install Dependencies
 To install all the necessary dependencies in all the project directories, run the following command:
 ```bash
@@ -26,6 +31,11 @@ npm start
 **Todo App** è un'applicazione per la gestione delle attività quotidiane. Consente agli utenti di aggiungere, modificare, eliminare e contrassegnare le attività come completate. È costruita utilizzando un'architettura moderna con Angular per il frontend e Node.js per il backend.
 
 ## Comandi principali
+
+### Clonazione progetto:
+```bash
+git clone --recurse-submodules https://github.com/Dokjolly0/Todo-app.git
+```
 
 ### Installazione delle dipendenze
 Per installare tutte le dipendenze necessarie in tutte le cartelle del progetto, esegui il comando:
