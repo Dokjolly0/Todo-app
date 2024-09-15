@@ -3,7 +3,7 @@
 ## Description (English)
 **Todo App** is an application for managing daily tasks. It allows users to add, edit, delete, and mark tasks as completed. Built with a modern architecture, it uses Angular for the frontend and Node.js for the backend.
 
-### Main Commands
+## Main Commands
 
 ### Clone project:
 ```bash
